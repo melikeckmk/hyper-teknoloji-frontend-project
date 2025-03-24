@@ -6,6 +6,9 @@ Hyper Teknoloji Frontend Case - Ekran Görüntüleri
 ![Ekran görüntüsü 2025-03-24 130621](https://github.com/user-attachments/assets/52b38ceb-8cbc-4716-8d9c-7973426f713d)
 ![Ekran görüntüsü 2025-03-24 130600](https://github.com/user-attachments/assets/cdb05b54-665f-49a6-9575-d1efbfec6b0d)
 ![Ekran görüntüsü 2025-03-24 130642](https://github.com/user-attachments/assets/5685bc90-18e7-4b97-a754-e2d91243b21e)
+![Ekran görüntüsü 2025-03-24 132440](https://github.com/user-attachments/assets/177d3566-1a8d-4a0d-a485-507e958f5c2f)
+![Ekran görüntüsü 2025-03-24 132520](https://github.com/user-attachments/assets/a8e02d6c-991b-4313-8c45-548ecf549736)
+![Ekran görüntüsü 2025-03-24 132558](https://github.com/user-attachments/assets/90d934ea-73a1-447f-8885-a4f5809dc9ed)
 
 Merhaba,
 Projemi geliştirirken, API üzerinden ürünleri listelemek için /Products/List isteği göndermeye çalıştım. Ancak, sürekli olarak 500 Internal Server Error hatası alıyorum. Bu durum, sunucu tarafında bir problem olabileceğini düşündürüyor.
